@@ -1,0 +1,3 @@
+## Data Cleaning
+
+During the data cleaning process, the presence of null values in the Accident_Index column, which serves as the primary key, was verified. Duplicates were removed, and several errors were detected and corrected using the replace function.
